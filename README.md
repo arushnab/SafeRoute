@@ -34,6 +34,6 @@ It combines advanced GIS techniques with intelligent optimization, delivering bo
 ---
 ## 📺 Demo
 
-[![Watch the demo](./demo.gif)](./SafeRoute%20Slideshow%20Presentation.mp4)
+[![Watch the demo]](./SafeRoute%20Slideshow%20Presentation.mp4)
 
 *Includes feature walk-throughs, routing visualizations, and algorithm animations.*
